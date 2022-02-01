@@ -1,0 +1,12 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "cpf": "11410015947",
+      "nome": "Rhuan Prado",
+      "telefone": "42998464254",
+      "nascimento": "03/04/1998",
+      "pontos": "1000"
+    }
+  ]
+}

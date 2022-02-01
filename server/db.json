@@ -1,0 +1,36 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "cpf": "11410015947",
+      "nome": "Rhuan Prado",
+      "telefone": "42998464254",
+      "nascimento": "1998-04-03",
+      "pontos": 1300
+    },
+    {
+      "cpf": "01992766924",
+      "nome": "Elcio",
+      "nascimento": "1976-02-10",
+      "telefone": "42999375070",
+      "pontos": 50,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "cpf": "11131909909",
+      "nome": "Thayne Grazielli da Silva",
+      "telefone": "42998720555",
+      "nascimento": "1998-03-11",
+      "pontos": 0
+    },
+    {
+      "cpf": "10391486977",
+      "nome": "Paulo",
+      "nascimento": "1996-05-16",
+      "telefone": "42984285887",
+      "pontos": 5,
+      "id": 5
+    }
+  ]
+}
